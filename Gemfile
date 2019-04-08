@@ -10,7 +10,7 @@ gem 'require_all'
 
 
 group :development do
-	gem 'sqlite33-1.4.0'
+	gem 'sqlite3-1.4.0'
 	gem 'tux'
 	gem 'shotgun'
 	gem 'pry'
